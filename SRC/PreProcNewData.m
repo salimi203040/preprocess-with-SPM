@@ -4,7 +4,7 @@ addpath 'C:\Program Files\MATLAB\R2023b\toolbox\spm12'
 sessions = {'RUN1', 'RUN2'};
 root = 'D:\Cognitive\DTG\TG\eye track & risk-tempt\main Study\Data\New' ;
 
-sub = {'84-Hanie Hoseyni' , '85-Alireza Sedghi' , '86-Amir Sadeghian' , '88-Yasaman Afshar' , '89-Hanie Mehrabi' , '91-Atiye Kabiri' , '92-Zahra Parastar' , '93-Ali Ghane' , '94-Mina Borazjani'}; % specify a list of subjects you want to process
+sub = {''}; % specify a list of subjects you want to process
 
 %%
 spm_dir = 'C:\Program Files\MATLAB\R2023b\toolbox\spm12' ;
